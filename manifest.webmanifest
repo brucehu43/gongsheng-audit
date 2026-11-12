@@ -1,0 +1,38 @@
+{
+  "name": "公勝稽核表",
+  "short_name": "稽核表",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "description": "公勝業務中心每月自行管理檢核表：選月份與事業部會議日期，自動填寫並匯出制式 Word。",
+  "lang": "zh-Hant-TW",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1b3f91",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
